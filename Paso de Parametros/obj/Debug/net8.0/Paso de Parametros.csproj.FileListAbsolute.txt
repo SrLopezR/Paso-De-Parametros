@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\bin\Debug\net8.0\Paso de Parametros.exe
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\bin\Debug\net8.0\Paso de Parametros.deps.json
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\bin\Debug\net8.0\Paso de Parametros.runtimeconfig.json
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\bin\Debug\net8.0\Paso de Parametros.dll
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\bin\Debug\net8.0\Paso de Parametros.pdb
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.dll
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\refint\Paso de Parametros.dll
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.pdb
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\Paso de Parametros.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Paso de parametros\Paso de Parametros\obj\Debug\net8.0\ref\Paso de Parametros.dll
